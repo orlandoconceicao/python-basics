@@ -122,8 +122,8 @@ Sinta-se à vontade para clonar, modificar e evoluir os exemplos.
 
 ## Autor
 
-**Orlando Conceição**  
+**Orlando Conceição Vilhalba de Almeida**
 
-Backend Developer  
+Desenvolvedor Backend em formação. Este projeto faz parte dos estudos de fundamentos de Python e desenvolvimento de software.
 
-Contato: orlandoconceicao94@gmail.com
+GitHub: [orlandoconceicao](https://github.com/orlandoconceicao)
