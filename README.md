@@ -11,7 +11,7 @@ O objetivo é servir como **material de apoio, revisão e prática**, especialme
 Abaixo está a organização dos arquivos e seus respectivos conteúdos:
 
 ### Introdução e Conceitos Iniciais
-- **10.1 - arq.txt**  
+- **10.1 - arq.txt**
   Arquivo de texto utilizado para testes de leitura e escrita em Python.
 
 ---
@@ -99,9 +99,9 @@ Abaixo está a organização dos arquivos e seus respectivos conteúdos:
 
 ## Objetivo do Repositório
 
-- Consolidar a base da linguagem Python  
-- Facilitar revisões rápidas  
-- Servir como material de estudo contínuo  
+- Consolidar a base da linguagem Python
+- Facilitar revisões rápidas
+- Servir como material de estudo contínuo
 - Preparar o terreno para conteúdos mais avançados (FastAPI, automação, back-end, etc.)
 
 ---
@@ -115,7 +115,7 @@ Abaixo está a organização dos arquivos e seus respectivos conteúdos:
 
 ## Observações
 
-Este repositório é **didático**, com foco em clareza e aprendizado progressivo.  
+Este repositório é **didático**, com foco em clareza e aprendizado progressivo.
 Sinta-se à vontade para clonar, modificar e evoluir os exemplos.
 
 ---
@@ -124,6 +124,10 @@ Sinta-se à vontade para clonar, modificar e evoluir os exemplos.
 
 **Orlando Conceição Vilhalba de Almeida**
 
-Desenvolvedor Backend em formação. Este projeto faz parte dos estudos de fundamentos de Python e desenvolvimento de software.
+Desenvolvedor Backend em formação, com foco em Python, Django, Django REST Framework, PostgreSQL, APIs REST e Docker, utilizando React como tecnologia complementar para integração das aplicações.
 
-GitHub: [orlandoconceicao](https://github.com/orlandoconceicao)
+GitHub: [[github.com/orlandoconceicao](https://github.com/orlandoconceicao)](https://github.com/orlandoconceicao)
+
+LinkedIn: [[linkedin.com/in/orlando-conceição-582234315](https://www.linkedin.com/in/orlando-concei%C3%A7%C3%A3o-582234315)](https://www.linkedin.com/in/orlando-concei%C3%A7%C3%A3o-582234315)
+
+Portfólio: [[orlandoconceicao.github.io](https://orlandoconceicao.github.io/)](https://orlandoconceicao.github.io)
